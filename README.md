@@ -6,14 +6,14 @@ Este proyecto se va a utilizar para hacer pequeñas pruebas con Jenkins:
 * ...
 
 # PRACTICA JENKINS
-## Para esta practica se tendran que realizar diversas tareas:
-## 0. Crear Crear un repositorio propio de Github con el contenido de /code
-## 1. Crear dos usarios en Jenkins
-## 2. Instalar el plugin de sonar y NodeJS
-## 3. Configurar los dos plugins en correctamente  
-## 4. Crear un job que pase los test que vienen includido cada vez que se hace un push al repositorio
-## 5. Crear un job que pase un escaner de SonarQube cada vez que se hace un push al repositorio
-## 6. Crear un Job que envie un correo a los usuarios cuando el test se haya pasado correctamente
+Para esta practica se tendran que realizar diversas tareas:
+0. Crear Crear un repositorio propio de Github con el contenido de /code
+1. Crear dos usarios en Jenkins
+2. Instalar el plugin de sonar y NodeJS
+3. Configurar los dos plugins en correctamente  
+4. Crear un job que pase los test que vienen includido cada vez que se hace un push al repositorio
+5. Crear un job que pase un escaner de SonarQube cada vez que se hace un push al repositorio
+6. Crear un Job que envie un correo a los usuarios cuando el test se haya pasado correctamente
 
 # AYUDA 
 Para esta practica se puede instalar SonarQube y Jenkins como se quiera pero se recomineda que se 
